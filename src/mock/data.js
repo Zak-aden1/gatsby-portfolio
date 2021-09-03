@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Determined to never stop learning, I stumbled across coding last year and have not looked back. ',
   paragraphTwo: 'Learning to code has been a difficult and arduous journey, yet a rewarding one. Being able to immerse myself in projects that push my problem-solving, organisational and analytical skills whilst partaking in the change that it brings. ',
-  paragraphThree: 'I aspire to be a developer so that I may develop myself and help the world one line of code at a time. By joining Nology, this would enable me to further enhance my skills and better myself at what Im passionate about- and that is coding. ',
+  paragraphThree: 'I aspire to be a developer so that I may develop myself and help the world one line of code at a time. ',
   resume: '', // if no resume, the button will not show up
 };
 
